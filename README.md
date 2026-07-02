@@ -1,6 +1,5 @@
-# you-tube-video--summarizer
-# YouTube Video Summarizer using LLM
-
+#you-tube-video--summarizer
+## YouTube Video Summarizer using LLM
 ## Overview
 This project summarizes YouTube videos using Large Language Models (LLMs). It extracts the video transcript and generates a concise summary, enabling users to quickly understand the main points without watching the entire video.
 
